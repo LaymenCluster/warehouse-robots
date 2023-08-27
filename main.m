@@ -65,7 +65,7 @@ while sum(~reached)
     imshow(I)
     hold on
 
-    reached = [1 1 1];
+    
     inst
 end
 
